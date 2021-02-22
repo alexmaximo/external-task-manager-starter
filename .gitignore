@@ -1,0 +1,9 @@
+/.idea/
+/external-task-manager-starter.iml
+/external-task-library/external-task-library.iml
+/external-task-spring-boot-autoconfigure/external-task-spring-boot-autoconfigure.iml
+/external-task-library/target/
+/external-task-spring-boot-autoconfigure/target/
+/external-task-spring-boot-starter/external-task-spring-boot-starter.iml
+/external-task-spring-boot-starter/target/external-task-spring-boot-starter-1.0.0-SNAPSHOT.jar
+/external-task-spring-boot-starter/target/maven-archiver/pom.properties
